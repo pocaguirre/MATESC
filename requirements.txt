@@ -1,0 +1,4 @@
+nltk==3.4.5
+PyMuPDF==1.16.10
+pypandoc==1.4
+six==1.14.0
